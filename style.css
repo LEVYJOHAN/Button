@@ -1,0 +1,23 @@
+.My-button{ padding: 12px 25px;
+    color: white;
+    background-color: navy;
+    margin: 20px;
+    border-color: navy;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-family: math;
+    border-style: solid;
+    border-radius: 10px 0px 10px 0px;
+    border-width: 7px;
+    cursor: pointer;
+    transition: 0.5ms;
+}
+
+.My-button:hover {
+    
+    color: white;
+    background-color: navy;
+    margin: 20px;
+    border-radius: 0px 10px 0px 10px;
+
+}
